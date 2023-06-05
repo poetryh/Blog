@@ -16,13 +16,13 @@ categories:
 
 Click it if you want to play:
 
-![JP](https://vrchat.com/home/launch?worldId=wrld_188bdfa3-0133-41fc-82a6-84c701a60314&instanceId=18887~region(jp))
+[JP](https://vrchat.com/home/launch?worldId=wrld_188bdfa3-0133-41fc-82a6-84c701a60314&instanceId=18887~region(jp))
 
-![EU](https://vrchat.com/home/launch?worldId=wrld_188bdfa3-0133-41fc-82a6-84c701a60314&instanceId=64445~region(eu))
+[EU](https://vrchat.com/home/launch?worldId=wrld_188bdfa3-0133-41fc-82a6-84c701a60314&instanceId=64445~region(eu))
 
-![USE](https://vrchat.com/home/launch?worldId=wrld_188bdfa3-0133-41fc-82a6-84c701a60314&instanceId=65505~region(use))
+[USE](https://vrchat.com/home/launch?worldId=wrld_188bdfa3-0133-41fc-82a6-84c701a60314&instanceId=65505~region(use))
 
-![USW](https://vrchat.com/home/launch?worldId=wrld_188bdfa3-0133-41fc-82a6-84c701a60314&instanceId=79236~region(us))
+[USW](https://vrchat.com/home/launch?worldId=wrld_188bdfa3-0133-41fc-82a6-84c701a60314&instanceId=79236~region(us))
 
 
 
