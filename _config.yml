@@ -135,6 +135,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Discord Server"
       icon: "fab fa-fw fa-bell"
+      url: "https://discord.gg/jctbwujyqq"
 
 # Site Footer
 footer:
