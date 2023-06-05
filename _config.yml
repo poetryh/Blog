@@ -113,7 +113,7 @@ author:
   avatar           : "assets/Images/MDJU}8WZ$U64U_IU{97B}OO.png"
   bio              : "I'm abstract"
   location         : "ShanDong China"
-  email            : "2660996043@qq.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -133,6 +133,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Discord Server"
+      icon: "fab fa-fw fa-bell"
 
 # Site Footer
 footer:
