@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Poetry's Blog"
-title_separator          : "|"
+title_separator          : "-"
 subtitle                 : "Record some of my thoughts, daily life, technology"
 name                     : "PoetryH"
 description              : "I'm abstract"
@@ -26,8 +26,8 @@ baseurl                  : # "/blog"
 repository               : # "poetryh/Blog"
 teaser                   : "assets/Images/MDJU}8WZ$U64U_IU{97B}OO.png"
 logo                     : "assets/Images/MDJU}8WZ$U64U_IU{97B}OO.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+masthead_title           : "My Custom Title"
+breadcrumbs              : "true"
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -290,3 +290,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
