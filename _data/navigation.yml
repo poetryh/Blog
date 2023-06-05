@@ -3,12 +3,12 @@ main:
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
-    url: /_pages/categories/
+    url: /categories/
   - title: "Tags"
-    url: /_pages/tags/
+    url: /tags/
   - title: "Pages"
-    url: /_pages/page-archive/
+    url: /page-archive/
   - title: "Collections"
-    url: /_pages/collection-archive/
+    url: /collection-archive/
   - title: "External Link"
     url: https://google.com
