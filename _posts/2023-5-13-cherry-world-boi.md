@@ -16,13 +16,13 @@ author: PoetryH
 
 Click it if you want to play:
 
-![JP][def4]
+![JP][https://vrchat.com/home/launch?worldId=wrld_188bdfa3-0133-41fc-82a6-84c701a60314&instanceId=18887~region(jp)]
 
-![EU][def3]
+![EU][https://vrchat.com/home/launch?worldId=wrld_188bdfa3-0133-41fc-82a6-84c701a60314&instanceId=64445~region(eu)]
 
-![USE][def2]
+![USE][https://vrchat.com/home/launch?worldId=wrld_188bdfa3-0133-41fc-82a6-84c701a60314&instanceId=65505~region(use)]
 
-![USW][def]
+![USW][https://vrchat.com/home/launch?worldId=wrld_188bdfa3-0133-41fc-82a6-84c701a60314&instanceId=79236~region(us)]
 
 
 
