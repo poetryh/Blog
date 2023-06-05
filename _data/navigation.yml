@@ -3,7 +3,7 @@ main:
   - title: "Posts"
     url: /_pages/year-archive.md/
   - title: "Categories"
-    url: /docs/_pages/categories/
+    url: /_pages/categories/
   - title: "Tags"
     url: /docs/_pages/tags/
   - title: "Pages"
