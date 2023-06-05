@@ -5,10 +5,10 @@ main:
   - title: "Categories"
     url: /_pages/categories/
   - title: "Tags"
-    url: /docs/_pages/tags/
+    url: /_pages/tags/
   - title: "Pages"
-    url: /docs/_pages/page-archive/
+    url: /_pages/page-archive/
   - title: "Collections"
-    url: /docs/_pages/collection-archive/
+    url: /_pages/collection-archive/
   - title: "External Link"
     url: https://google.com
