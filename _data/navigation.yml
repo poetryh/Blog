@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Posts"
-    url: /docs/_pages/year-archive/
+    url: /docs/_pages/year-archive.md/
   - title: "Categories"
     url: /docs/_pages/categories/
   - title: "Tags"
