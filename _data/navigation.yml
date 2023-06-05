@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Posts"
-    url: /_pets/
+    url: /_posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
