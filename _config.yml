@@ -134,8 +134,11 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "WeChat"
-      icon: "fa fa-weixin"
+      icon: "fas fa-fw fa-envelope-square"
       url:  "https://github.com/poetryh/Blog/blob/master/assets/Images/Screenshot_2023-06-05-16-54-39-751_com.tencent.mm.jpg?raw=true"
+    - label: "VRChat"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "https://vrchat.com/home/user/usr_03c7cc46-118d-4ec8-8c69-ea9cfdd1f548"
 
 # Site Footer
 footer:
