@@ -2,7 +2,7 @@
 layout: post
 title: "About my world:Cherry blossoms fall（AFK）"
 date:   2023-5-12
-tags: [VRChat] [EN] [About Me]
+tags: [VRChat]
 comments: true
 author: PoetryH
 ---
