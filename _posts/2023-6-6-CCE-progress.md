@@ -24,7 +24,7 @@ tags:
 
 有看到Ps的Beta版本的AI挺火的，就想着先试试能不能出个大型....欸，还真出来了
 
-<img decoding="async" src="[https://github.com/poetryh/Blog/blob/master/assets/Images/image11.png?raw=true]" width="50%">
+<img decoding="async" src="https://github.com/poetryh/Blog/blob/master/assets/Images/image11.png?raw=true" width="50%">
 
 <u>旁边还有两个可选项来着，不过有点闲麻烦就没用那些版本（lan）</u>
 
