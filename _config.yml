@@ -164,7 +164,9 @@ footer:
     - label: "Discord Server"
       icon: "fa fa-bookmark"
       url: "https://discord.gg/jctbwujyqq"
-
+    - label: "Kook Server"
+      icon: "fa fa-bookmark"
+      url: "https://kook.top/CHi9N5"
 
 # Reading Files
 include:
