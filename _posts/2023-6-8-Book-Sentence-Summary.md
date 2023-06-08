@@ -1,5 +1,5 @@
 ---
-title: "Sentence Summary for June 9 - The Kite Runner"
+title: "Sentence Summary for June 8 - The Kite Runner"
 categories:
   - Book
 tags:
