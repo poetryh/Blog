@@ -1,5 +1,5 @@
 ---
-title: "6月9日精句摘要-追风筝的人"
+title: "Sentence Summary for June 9 - The Kite Runner"
 categories:
   - Book
 tags:
