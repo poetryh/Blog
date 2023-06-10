@@ -15,7 +15,7 @@ tags:
   渲染（Rendering）：从模型创建阴影图像（shaded images）。
   
   动画（Animation）：通过图像序列（sequences image）创建视错觉运动（illusion of motion）。
------
+
   Other：用户交互（UI），虚拟现实（VR），可视化（Visualization），图像处理（Image processing），3D扫描（3D scan），计算机摄影{利用计算机图形，视觉，图像处理实现的新式摄影}（photography）
 -- --
 * #### 1.2 Major Applications 主要应用领域
