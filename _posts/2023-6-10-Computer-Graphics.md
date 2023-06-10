@@ -11,19 +11,28 @@ tags:
 
 * #### 1.1 GraphicsAreas  图形学的研究领域
   建模（Modeling）：用数学的方式，利用一些插值规则 (interpolation rule) 把顶点（vertex）连接，同时反射（reflection）它 ，“描述”这个东西。
+  
   渲染（Rendering）：从模型创建阴影图像（shaded images）。
+  
   动画（Animation）：通过图像序列（sequences image）创建视错觉运动（illusion of motion）。
 \
   Other：用户交互（UI），虚拟现实（VR），可视化（Visualization），图像处理（Image processing），3D扫描（3D scan），计算机摄影{利用计算机图形，视觉，图像处理实现的新式摄影}（photography）
 -- --
 * #### 1.2 Major Applications 主要应用领域
   游戏（Game）：越来越复杂的3D场景模型，以及光照渲染算法。
+  
   卡通（CarToon）：包括利用三渲二场景，降低艺术家重复无意义的操作。
+  
   视效（Visual effects）：利用3D建模与合成创建环境，足够真实让观众不会怀疑。
+  
   动画片（Animated films）:许多技术与视效层面基本相同，不过不会过于真实。
+  
   计算机辅助设计/建造（CAM/CAD）：利用计算机软件和硬件来帮助设计师创建、修改和分析产品的几种模型。
+  
   模拟类（Simulation）：例：飞行，汽车，安全培训模拟。
+  
   医学影像（Medical imaging）：例，CT。
+  
   信息/数据可视化（Information visualization）：用图像给复杂的数据总结。
 -- --
 * ### 1.3 Graphics APIs 图形API[（应用程序接口-API）](https://www.redhat.com/zh/topics/api/what-are-application-programming-interfaces)
@@ -44,6 +53,9 @@ tags:
   &nbsp;
 
     [齐次坐标（homogenous coordinate) - 知乎 Ikuku](https://zhuanlan.zhihu.com/p/258437902)
+    
     [多层次细节LOD - 知乎 菜鸡的图形学笔记](https://zhuanlan.zhihu.com/p/32700416)
+    
     [面剔除（face-culling） - OpenGl Learn](https://learnopengl-cn.readthedocs.io/zh/latest/04%20Advanced%20OpenGL/04%20Face%20culling/#:~:text=%E5%A6%82%E6%9E%9C%E6%88%91%E4%BB%AC%E5%8E%BB%E6%83%B3%E8%B1%A1%E4%BB%BB%E4%BD%95,Face%20culling)
+    
     [z缓冲（z-buffer） -  知乎 启思](https://zhuanlan.zhihu.com/p/344018798)
