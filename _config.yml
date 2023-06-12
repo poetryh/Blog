@@ -32,12 +32,12 @@ words_per_minute         : 200
 comments:
   provider               : "giscus"
   giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    repo_id              : "R_kgDOJrXaNQ"
+    category_name        : "General"
+    category_id          : "DIC_kwDOJrXaNc4CXJWJ"
+    discussion_term      : "url"
+    reactions_enabled    : "1"
+    theme                : "preferred_color_scheme"
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
