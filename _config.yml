@@ -38,9 +38,6 @@ comments:
     discussion_term      : "url"
     reactions_enabled    : "1"
     theme                : "preferred_color_scheme"
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
   secret                 :
