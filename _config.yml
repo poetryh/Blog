@@ -167,6 +167,9 @@ footer:
     - label: "Kook Server"
       icon: "fa fa-bookmark"
       url: "https://kook.top/CHi9N5"
+    - label: "Kazama"
+      icon: ""
+      url: "https://www.bilibili.com/video/BV12h4y1G7Bh/"
 
 # Reading Files
 include:
