@@ -32,6 +32,6 @@ toc: true
 
 <center>喜欢的游戏很杂，你可以慢慢深入了解我~</center>
 
-End...
+<center>End...</center>
 
-待补充中....
+<center>待补充中....</center>
