@@ -15,6 +15,7 @@ toc: true
 - [Bilibili](https://space.bilibili.com/415766267)
 - [YouTube](https://www.youtube.com/channel/UCnos4jjTR0pX69OC-m5YB1A)
 - [Twitch](https://www.twitch.tv/lucierrrz)
+- QQ --- 2660996043
 
 或许，跟我来交流一下我喜欢的，感兴趣的，急迫想了解的东西，我会很开心。
 
