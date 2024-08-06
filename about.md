@@ -17,10 +17,14 @@ toc: true
 
 
 <center><a href="https://space.bilibili.com/415766267" target="_blank">Bilibili</a></center>
+
+<center><a href="https://www.youtube.com/channel/UCnos4jjTR0pX69OC-m5YB1A">YouTube</a></center>
+
+<center><a href="https://www.twitch.tv/lucierrrz">Twitch</a></center>
+
+<center>QQ --- 2660996043</center>
   
-- [YouTube](https://www.youtube.com/channel/UCnos4jjTR0pX69OC-m5YB1A)
-- [Twitch](https://www.twitch.tv/lucierrrz)
-- QQ --- 2660996043
+
 
 <center>或许，跟我来交流一下我喜欢的，感兴趣的，急迫想了解的东西，我会很开心。</center>
 
