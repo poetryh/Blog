@@ -12,11 +12,11 @@ toc: true
 
 <center>下面是一些我的社交链接(事实上大多都在主界面)：</center>
 
-<a href="https://space.bilibili.com/415766267" target="_blank">Bilibili</a>
 
 
 
-<dev align=center><[Bilibili](https://space.bilibili.com/415766267)></dev>
+
+<dev align=center><a href="https://space.bilibili.com/415766267" target="_blank">Bilibili</a></dev>
   
 - [YouTube](https://www.youtube.com/channel/UCnos4jjTR0pX69OC-m5YB1A)
 - [Twitch](https://www.twitch.tv/lucierrrz)
