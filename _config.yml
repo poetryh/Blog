@@ -100,9 +100,9 @@ author:
   location         : "I'm everywhere"
   email            : "2660996043@qq.com"
   links:
-    - label: "Email"
+    - label: "More Contact Information"
       icon: "fas fa-fw fa-envelope-square"
-      url: "hu75238@foxmail.com"
+      url: "https://poetryh.top/about/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
